@@ -1,2 +1,3 @@
 #	Computer Graphics Laboratory
-![image](https://user-images.githubusercontent.com/39295341/133739076-af487520-9a2b-4ed9-82cc-5c029c4dfede.png)
+
+![](https://user-images.githubusercontent.com/39295341/134445742-c13f414e-ecdf-4193-9534-746ccdda051e.png)
